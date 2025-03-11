@@ -1,0 +1,10 @@
+{
+	"id": "pdf-importer",
+	"name": "PDF Importer",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Import PDFs to your Obsidian vault from the Command Palette",
+	"author": "Your Name",
+	"authorUrl": "",
+	"isDesktopOnly": true
+}
